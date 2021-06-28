@@ -1,0 +1,31 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.inc</mask>
+    <mask>*.hphp</mask>
+    <mask>*.php4</mask>
+    <mask>*.php5</mask>
+    <mask>*.theme</mask>
+    <mask>*.test</mask>
+    <mask>*.engine</mask>
+    <mask>*.install</mask>
+    <mask>*.phtml</mask>
+    <mask>*.profile</mask>
+    <mask>*.ctp</mask>
+    <mask>!*.js</mask>
+    <mask>*.scss</mask>
+    <mask>*site.yml</mask>
+    <mask>.yml</mask>
+    <mask>*.php</mask>
+    <mask>*.twig</mask>
+    <mask>*.schema.yml</mask>
+    <mask>*.module</mask>
+    <mask>*.yml</mask>
+    <mask>*.js</mask>
+  </component>
+</application>
