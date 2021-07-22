@@ -21,12 +21,12 @@
     <mask>*.scss</mask>
     <mask>*site.yml</mask>
     <mask>.yml</mask>
-    <mask>*.php</mask>
     <mask>*.twig</mask>
     <mask>*.schema.yml</mask>
-    <mask>*.js</mask>
     <mask>*routing.yml</mask>
     <mask>*.module</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
