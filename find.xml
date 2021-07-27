@@ -28,5 +28,6 @@
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.info.yml</mask>
   </component>
 </application>
