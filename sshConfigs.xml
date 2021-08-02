@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="localhost" id="92479245-3a8a-44dd-8f90-cd6a117b6913" keyPath="$USER_HOME$/sites/lemberg/akademika/.vagrant/machines/haugenbok/virtualbox/private_key" port="2222" nameFormat="DESCRIPTIVE" username="vagrant" />
+      <sshConfig host="localhost" id="636a6b23-1088-4f41-9cbf-170e5d635795" keyPath="$USER_HOME$/sites/lemberg/livdyrr/.vagrant/machines/livdyrr/virtualbox/private_key" port="2222" nameFormat="DESCRIPTIVE" username="vagrant" />
     </configs>
   </component>
 </application>
