@@ -23,11 +23,11 @@
     <mask>.yml</mask>
     <mask>*.twig</mask>
     <mask>*.schema.yml</mask>
-    <mask>*.module</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.info.yml</mask>
     <mask>*.yml</mask>
     <mask>*routing.yml</mask>
+    <mask>*.module</mask>
   </component>
 </application>
