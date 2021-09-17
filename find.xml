@@ -27,7 +27,7 @@
     <mask>*.js</mask>
     <mask>*.info.yml</mask>
     <mask>*.yml</mask>
-    <mask>*routing.yml</mask>
     <mask>*.module</mask>
+    <mask>*routing.yml</mask>
   </component>
 </application>
