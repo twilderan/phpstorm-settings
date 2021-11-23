@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../templates/index.twig'" />
+    <option name="defaultScopeName" value="File '.../templates/index.twig'" />
+    <option name="SEARCH_SCOPE" value="File '.../templates/index.twig'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
