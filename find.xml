@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.lock" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -29,5 +30,6 @@
     <mask>*routing.yml</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.lock</mask>
   </component>
 </application>
