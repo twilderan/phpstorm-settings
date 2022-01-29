@@ -33,5 +33,6 @@
     <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.po</mask>
+    <mask>*.services.yml</mask>
   </component>
 </application>
