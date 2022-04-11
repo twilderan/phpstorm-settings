@@ -17,6 +17,7 @@
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="crcim" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="custom" type="Twig" />
