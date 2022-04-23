@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../docroot/themes/custom/lemberg2/partials/html/html--webform--contact.html.twig'" />
-    <option name="defaultScopeName" value="File '.../docroot/themes/custom/lemberg2/partials/html/html--webform--contact.html.twig'" />
-    <option name="SEARCH_SCOPE" value="File '.../docroot/themes/custom/lemberg2/partials/html/html--webform--contact.html.twig'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
