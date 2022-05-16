@@ -19,7 +19,6 @@
     <mask>!*.js</mask>
     <mask>*site.yml</mask>
     <mask>.yml</mask>
-    <mask>*.twig</mask>
     <mask>*.schema.yml</mask>
     <mask>*.info.yml</mask>
     <mask>*.module</mask>
@@ -33,5 +32,6 @@
     <mask>*.scss</mask>
     <mask>*Commands.php</mask>
     <mask>*.yml</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
