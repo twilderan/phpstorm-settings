@@ -29,9 +29,9 @@
     <mask>*.po</mask>
     <mask>*.services.yml</mask>
     <mask>*.css</mask>
-    <mask>*.scss</mask>
     <mask>*Commands.php</mask>
     <mask>*.twig</mask>
     <mask>*.yml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
