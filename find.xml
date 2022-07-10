@@ -28,10 +28,10 @@
     <mask>*.services.yml</mask>
     <mask>*.css</mask>
     <mask>*Commands.php</mask>
-    <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*.module</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
