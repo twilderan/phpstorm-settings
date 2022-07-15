@@ -31,7 +31,7 @@
     <mask>*.scss</mask>
     <mask>*.module</mask>
     <mask>*.yml</mask>
-    <mask>*.js</mask>
     <mask>*.twig</mask>
+    <mask>*.js</mask>
   </component>
 </application>
