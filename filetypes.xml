@@ -10,8 +10,8 @@
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="reset-env" type="PLAIN_TEXT" />
       <mapping pattern="cim" type="PLAIN_TEXT" />
+      <mapping pattern="reset-env" type="PLAIN_TEXT" />
       <mapping pattern="re" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
