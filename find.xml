@@ -30,8 +30,8 @@
     <mask>*.twig</mask>
     <mask>*.module</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*info.yml</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
