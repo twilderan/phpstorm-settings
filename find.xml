@@ -31,7 +31,7 @@
     <mask>*.module</mask>
     <mask>*.scss</mask>
     <mask>*info.yml</mask>
-    <mask>*.yml</mask>
     <mask>*.js</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
