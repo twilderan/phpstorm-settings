@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.xml</mask>
     <mask>*.inc</mask>
     <mask>*.hphp</mask>
     <mask>*.php4</mask>
@@ -33,5 +32,6 @@
     <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>!*.yml</mask>
   </component>
 </application>
