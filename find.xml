@@ -29,9 +29,9 @@
     <mask>*.scss</mask>
     <mask>*info.yml</mask>
     <mask>*.twig</mask>
-    <mask>*.php</mask>
     <mask>!*.yml</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
