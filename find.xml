@@ -27,11 +27,11 @@
     <mask>*Commands.php</mask>
     <mask>*.scss</mask>
     <mask>*info.yml</mask>
-    <mask>*.twig</mask>
     <mask>!*.yml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
     <mask>*.module</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
