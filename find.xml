@@ -19,7 +19,6 @@
     <mask>.yml</mask>
     <mask>*.schema.yml</mask>
     <mask>*.info.yml</mask>
-    <mask>*routing.yml</mask>
     <mask>*.lock</mask>
     <mask>*.po</mask>
     <mask>*.services.yml</mask>
@@ -33,5 +32,6 @@
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
+    <mask>*routing.yml</mask>
   </component>
 </application>
