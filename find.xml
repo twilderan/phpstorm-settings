@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.inc</mask>
+    <option name="FILE_MASK" value="*yml" />
     <mask>*.hphp</mask>
     <mask>*.php4</mask>
     <mask>*.php5</mask>
@@ -33,5 +33,6 @@
     <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*routing.yml</mask>
+    <mask>*yml</mask>
   </component>
 </application>
