@@ -26,6 +26,7 @@
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping pattern="custom" type="Twig" />
