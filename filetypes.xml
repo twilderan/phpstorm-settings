@@ -30,6 +30,7 @@
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping pattern="custom" type="Twig" />
+      <mapping ext="categories" type="YAML" />
     </extensionMap>
   </component>
 </application>
