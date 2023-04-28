@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.php4</mask>
+    <option name="FILE_MASK" value="*scss" />
     <mask>*.php5</mask>
     <mask>*.theme</mask>
     <mask>*.test</mask>
@@ -33,5 +33,6 @@
     <mask>*routing.yml</mask>
     <mask>*yml</mask>
     <mask>*twig</mask>
+    <mask>*scss</mask>
   </component>
 </application>
