@@ -13,6 +13,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="cim" type="PLAIN_TEXT" />
       <mapping pattern="reset-env" type="PLAIN_TEXT" />
+      <mapping pattern=".lagoon.env.rebranding" type="PLAIN_TEXT" />
       <mapping pattern="re" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
