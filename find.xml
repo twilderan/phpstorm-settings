@@ -27,11 +27,11 @@
     <mask>*.module</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
-    <mask>*.yml</mask>
     <mask>*routing.yml</mask>
     <mask>*yml</mask>
     <mask>*twig</mask>
     <mask>*scss</mask>
     <mask>*services.yml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
