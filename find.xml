@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.test</mask>
     <mask>*.engine</mask>
     <mask>*.install</mask>
     <mask>*.phtml</mask>
@@ -30,8 +29,9 @@
     <mask>*twig</mask>
     <mask>*scss</mask>
     <mask>*services.yml</mask>
-    <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>s</mask>
+    <mask>*.yml</mask>
+    <mask>*menu.yml</mask>
   </component>
 </application>
