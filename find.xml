@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.engine</mask>
+    <option name="FILE_MASK" value="*html" />
     <mask>*.install</mask>
     <mask>*.phtml</mask>
     <mask>*.profile</mask>
@@ -33,5 +33,6 @@
     <mask>s</mask>
     <mask>*.yml</mask>
     <mask>*menu.yml</mask>
+    <mask>*html</mask>
   </component>
 </application>
