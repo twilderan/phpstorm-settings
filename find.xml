@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*yml" />
     <mask>*.install</mask>
     <mask>*.phtml</mask>
     <mask>*.profile</mask>
@@ -24,7 +25,6 @@
     <mask>*.module</mask>
     <mask>*.twig</mask>
     <mask>*routing.yml</mask>
-    <mask>*yml</mask>
     <mask>*scss</mask>
     <mask>*services.yml</mask>
     <mask>*.js</mask>
@@ -33,5 +33,6 @@
     <mask>*menu.yml</mask>
     <mask>*html</mask>
     <mask>*twig</mask>
+    <mask>*yml</mask>
   </component>
 </application>
